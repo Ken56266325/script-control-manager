@@ -1,1 +1,13 @@
-{"scripts":[],"announcement":""}
+{
+    "scripts": [
+        {
+            "id": "56266",
+            "referred_by": "5621",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-07T12:08:07.075981",
+            "affiliation_balance": 0
+        }
+    ],
+    "announcement": ""
+}
