@@ -1,0 +1,6 @@
+# Ignorer tout
+*
+
+# Sauf status1.json et .gitignore
+!status1.json
+!.gitignore
