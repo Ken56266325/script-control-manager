@@ -73,6 +73,14 @@
             "status": "active",
             "countdown_start_time": "2025-10-04T14:18:35.512709",
             "affiliation_balance": 0
+        },
+        {
+            "id": "5845738",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-04T22:44:35.008589",
+            "affiliation_balance": 0
         }
     ],
     "announcement": "zeizkkznz"
