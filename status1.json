@@ -81,6 +81,14 @@
             "status": "active",
             "countdown_start_time": "2028-08-15T23:42:11.545053",
             "affiliation_balance": 0
+        },
+        {
+            "id": "5845738",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-22T21:12:20.208750",
+            "affiliation_balance": 0
         }
     ],
     "announcement": "zeizkkznz"
