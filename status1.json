@@ -67,14 +67,6 @@
             "affiliation_balance": 0
         },
         {
-            "id": "5845738",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2053-03-26T16:24:49.394948",
-            "affiliation_balance": 0
-        },
-        {
             "id": "1967844",
             "referred_by": null,
             "referred_to": [],
