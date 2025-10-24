@@ -14,6 +14,14 @@
             "status": "active",
             "plan": "GetLike",
             "referred_by": "123"
+        },
+        {
+            "id": "5845738",
+            "affiliation_balance": 0,
+            "countdown_start_time": "2025-10-24T17:46:44.389661",
+            "status": "active",
+            "plan": "GetLike",
+            "referred_by": "123"
         }
     ]
 }
