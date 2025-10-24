@@ -1,19 +1,11 @@
 {
     "scripts": [
         {
-            "id": "5626632",
-            "affiliation_balance": 1000,
-            "countdown_start_time": "2025-10-24T15:51:15.407637",
-            "status": "active",
-            "plan": "GetLike"
-        },
-        {
             "id": "123",
             "affiliation_balance": 0,
-            "countdown_start_time": "2025-11-07T15:53:13.053268",
+            "countdown_start_time": "2025-10-24T16:55:09.526001",
             "status": "active",
-            "plan": "GetLike",
-            "referred_by": "5626632"
+            "plan": "GetLike"
         }
     ]
 }
