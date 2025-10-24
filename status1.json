@@ -8,7 +8,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-31T09:21:11.490672",
-            "affiliation_balance": 500
+            "affiliation_balance": 1000
         },
         {
             "id": "34302",
@@ -111,6 +111,14 @@
             "countdown_start_time": "2025-10-24T14:59:27.104700",
             "status": "active",
             "plan": "GetLike"
+        },
+        {
+            "id": "562663",
+            "affiliation_balance": 0,
+            "countdown_start_time": "2025-10-24T15:15:17.316224",
+            "status": "active",
+            "plan": "GetLike",
+            "referred_by": "56266"
         }
     ],
     "announcement": "zeizkkznz"
