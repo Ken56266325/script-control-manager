@@ -8,7 +8,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-07T12:08:07.075981",
-            "affiliation_balance": 5000
+            "affiliation_balance": 5500
         },
         {
             "id": "34302",
@@ -89,6 +89,21 @@
             "status": "active",
             "countdown_start_time": "2054-04-30T11:52:39.187349",
             "affiliation_balance": 0
+        },
+        {
+            "id": "1234",
+            "affiliation_balance": 0,
+            "countdown_start_time": "2025-10-24T14:09:02.156752",
+            "status": "active",
+            "plan": "GetLike",
+            "referred_by": "56266"
+        },
+        {
+            "id": "12345",
+            "affiliation_balance": 0,
+            "countdown_start_time": "2025-10-24T14:16:49.756741",
+            "status": "active",
+            "plan": "GetLike"
         }
     ],
     "announcement": "zeizkkznz"
