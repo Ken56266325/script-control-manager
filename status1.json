@@ -104,6 +104,13 @@
             "countdown_start_time": "2025-10-24T14:16:49.756741",
             "status": "active",
             "plan": "GetLike"
+        },
+        {
+            "id": "123456",
+            "affiliation_balance": 0,
+            "countdown_start_time": "2025-10-24T14:59:27.104700",
+            "status": "active",
+            "plan": "GetLike"
         }
     ],
     "announcement": "zeizkkznz"
