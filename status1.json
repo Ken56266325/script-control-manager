@@ -9,7 +9,7 @@
         },
         {
             "id": "123",
-            "affiliation_balance": 0,
+            "affiliation_balance": 5000,
             "countdown_start_time": "2025-10-24T15:53:13.053268",
             "status": "active",
             "plan": "GetLike",
