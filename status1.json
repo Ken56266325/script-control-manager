@@ -43,6 +43,13 @@
             "countdown_start_time": "2025-11-25T17:42:36.756139",
             "status": "active",
             "plan": "GetLike"
+        },
+        {
+            "id": "5892060",
+            "affiliation_balance": 0,
+            "countdown_start_time": "2025-11-26T13:41:38.547260",
+            "status": "active",
+            "plan": "GetLike"
         }
     ]
 }
